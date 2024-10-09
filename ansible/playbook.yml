@@ -1,0 +1,5 @@
+---
+- name: Provision virtual machine
+  hosts: localhost
+  roles:
+    - common
